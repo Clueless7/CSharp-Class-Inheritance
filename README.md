@@ -1,1 +1,1 @@
-# Responsibilities and Inheritance activity
+# Responsibilities and Relationships activity
